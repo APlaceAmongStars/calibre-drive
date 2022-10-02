@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calibre-drive/static/css/main.073c9b0a.css",
+    "main.js": "/calibre-drive/static/js/main.dcb0fe42.js",
+    "static/js/787.e12b0b4a.chunk.js": "/calibre-drive/static/js/787.e12b0b4a.chunk.js",
+    "static/media/logo.svg": "/calibre-drive/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/calibre-drive/index.html",
+    "main.073c9b0a.css.map": "/calibre-drive/static/css/main.073c9b0a.css.map",
+    "main.dcb0fe42.js.map": "/calibre-drive/static/js/main.dcb0fe42.js.map",
+    "787.e12b0b4a.chunk.js.map": "/calibre-drive/static/js/787.e12b0b4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dcb0fe42.js"
+  ]
+}
